@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devon-thomas
 - I'm currently an RF/Mixed Signal Designer with a personal interest in learning more coding techniques. 
 - I'm working through leetcode problems and enjoying the new algorithms! 
-- I've chosen to learn python, as that's all the rage for non-programmers although I am fluent in Matlab. 
+- I've chosen to learn python because that's all the rage for non-programmers although I am fluent in Matlab. 
 - 📫 How to reach me ... devjt80@gmail.com
 
 <!---
